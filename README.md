@@ -13,7 +13,7 @@ The dataset (`customer_train.csv`) includes anonymized student records, which wi
 This project demonstrates effective data management and transformation techniques to improve large-scale data efficiency, providing a practical solution for managing sizable datasets in predictive modeling.
 
 ## Contents
-- `pyhton_code.ipynb`: The data transformation and optimization process
+- [python_code.ipynb](https://github.com/randallcampher/processing-optimization/blob/main/python_code.ipynb): The data transformation and optimization process
 - `README.md`: Overview of the project and key methods used
 
 ## Technologies Used
