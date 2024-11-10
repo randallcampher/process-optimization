@@ -1,6 +1,6 @@
 # Processing Optimization of Large Dataset
 
-This project focuses on optimizing a large customer dataset for *Training Data Ltd.*, an online data science training provider. The goal is to create a more efficient memory usage solution that enables faster processing and analysis, allowing predictive models to run on a reasonable timescale without reducing dataset size.
+This project focuses on optimizing a large customer dataset for *TDataPath Insights*, an online data science training provider. The goal is to create a more efficient memory usage solution that enables faster processing and analysis, allowing predictive models to run on a reasonable timescale without reducing dataset size.
 
 The dataset (`customer_train.csv`) includes anonymized student records, which will ultimately be used to predict if students are interested in new job opportunities. This prediction helps *Training Data Ltd.* target students with relevant career opportunities.
 
